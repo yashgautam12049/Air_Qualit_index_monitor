@@ -66,5 +66,6 @@ For more information, please contact:
 - Ankit Raj: [ankit.raj.ug21@nsut.ac.in](mailto:ankit.raj.ug21@nsut.ac.in)
 
 ---
+## Screenshots
+![iot 1](https://github.com/yashgautam12049/Air_Qualit_index_monitor/assets/97456693/17aa8d54-b8f9-40f9-90d1-db8b10b53b64)
 
-Netaji Subhas University of Technology, Dwarka Sector-3, New Delhi, Near Azad Hind Fauj Marg, 110078
